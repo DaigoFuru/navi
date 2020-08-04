@@ -1,0 +1,16 @@
+--- TIME----
+Time_Limit 14400 [second]
+Sleep_time 0.2 [second]
+
+--- PID CONTROL ---
+P 0.05
+I 0.0
+D 0.0
+
+--- WAY POINTS ---
+NUM 4
+latitude longitude
+35.436000 136.150000
+35.436000 136.080000
+35.453018 136.064675
+35.466000 136.040000
